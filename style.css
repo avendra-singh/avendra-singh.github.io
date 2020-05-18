@@ -64,7 +64,7 @@
   
   /*footer style ended*/
 body{
-  background: linear-gradient( to left ,blue,white);
+    background-image: url(img1.jpg);
     padding: 0px;
     margin: 0px;
 }
